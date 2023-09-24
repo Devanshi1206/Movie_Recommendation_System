@@ -1,1 +1,1 @@
-# CodeClauseInternship_MovieRecommendationSystem
+# MovieRecommendationSystem
