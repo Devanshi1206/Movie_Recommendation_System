@@ -18,7 +18,7 @@ To identify movies for future viewing that are curated based on a film we have p
 4. Machine Learning Modeling - Calculating cosine similarity.
 5. Testing - Creating a function for recommendations.
 
-## Data Analysis:
+### Data Analysis:
 
 Used the NLP to predict the personalised movie recommendation.
 
