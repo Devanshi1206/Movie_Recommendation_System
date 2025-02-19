@@ -12,15 +12,14 @@ To identify movies for future viewing that are curated based on a film we have p
 
 <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/recommendation-system-project-in-R.png">
 
-1. Importing Data - Utilizing NumPy and pandas.
+Used Natural Language Processing (NLP) to predict the personalised movie recommendation.
+
+#### Steps:
+1. Importing Data - Utilizing NumPy and Pandas.
 2. Exploratory Data Analysis (EDA) - Cleaning the data, removing duplicates, creating a dataframe with only useful data, and generating new columns.
 3. Natural Language Processing (NLP) - Stemming and text vectorization.
 4. Machine Learning Modeling - Calculating cosine similarity.
 5. Testing - Creating a function for recommendations.
-
-### Data Analysis:
-
-Used the NLP to predict the personalised movie recommendation.
 
 ## Skills:
 
