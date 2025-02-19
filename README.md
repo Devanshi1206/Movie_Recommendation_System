@@ -1,10 +1,28 @@
 # Movie Recommendation System
 
+## Executive Summary: 
+
+The project aimed to assist users in discovering movies they would likely enjoy, enhancing the overall movie-watching experience. To accomplish this, I utilized Natural Language Processing (NLP).
+
+## Business Problem:
+
+To identify movies for future viewing that are curated based on a film we have previously watched.
+
+## Methodology:
+
 <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/recommendation-system-project-in-R.png">
 
-The project aimed to help users find movies they are likely to enjoy, making the movie-watching experience more personalized and enjoyable. To achieve this, I used Natural Language Processing (NLP).
+1. Importing Data - Utilizing NumPy and pandas.
+2. Exploratory Data Analysis (EDA) - Cleaning the data, removing duplicates, creating a dataframe with only useful data, and generating new columns.
+3. Natural Language Processing (NLP) - Stemming and text vectorization.
+4. Machine Learning Modeling - Calculating cosine similarity.
+5. Testing - Creating a function for recommendations.
 
-Skills:
+## Data Analysis:
+
+Used the NLP to predict the personalised movie recommendation.
+
+## Skills:
 
     Python3
     Numpy
@@ -12,16 +30,16 @@ Skills:
     Matplotlib
     Machine Learning Algorithm
     Natural Language Programming
-    
-This Notebook shows:
+    Text Vectorization
 
-    Data Handling
-    Importing Data with Pandas
-    Cleaning Data
-    Data Visualisation
+## Result and Business Recommendation:
 
-## Data Analysis:
+Successfully developed and implemented a recommendation model that identifies and suggests five movies tailored to the preferences of a specific film. This model utilizes advanced algorithms to analyze various attributes such as genre, director, and viewer ratings, ensuring relevant and personalized recommendations for users.
 
-So, I used the NLP to predict the personalised movie recommendation.
+## Next Steps:
+
+1. Making a Webpage to implement this model.
+2. Msking same modle using Azure.
+
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
